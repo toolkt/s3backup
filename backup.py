@@ -1,4 +1,4 @@
-#!/usr/bin/python
+# -*- coding: utf-8 -*-
 import os, time
 import sys, getopt
 import subprocess
